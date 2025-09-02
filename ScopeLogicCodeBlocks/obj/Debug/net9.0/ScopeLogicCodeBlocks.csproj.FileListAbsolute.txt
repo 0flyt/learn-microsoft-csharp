@@ -1,0 +1,15 @@
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/bin/Debug/net9.0/ScopeLogicCodeBlocks
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/bin/Debug/net9.0/ScopeLogicCodeBlocks.deps.json
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/bin/Debug/net9.0/ScopeLogicCodeBlocks.runtimeconfig.json
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/bin/Debug/net9.0/ScopeLogicCodeBlocks.dll
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/bin/Debug/net9.0/ScopeLogicCodeBlocks.pdb
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.AssemblyInfoInputs.cache
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.AssemblyInfo.cs
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.csproj.CoreCompileInputs.cache
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.sourcelink.json
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.dll
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/refint/ScopeLogicCodeBlocks.dll
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.pdb
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ScopeLogicCodeBlocks.genruntimeconfig.cache
+/Users/christopherrydberg/iths/dotnet/microsoft-learn-dotnet/ScopeLogicCodeBlocks/obj/Debug/net9.0/ref/ScopeLogicCodeBlocks.dll
